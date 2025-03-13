@@ -10,7 +10,7 @@ import messageRoutes from "./routes/message.route.js";
 import { app, server } from "./lib/socket.js";
 
 
-dotenv.config()
+dotenv.config();
 
 
 
